@@ -1,0 +1,36 @@
+<html> <center>
+<body by colour= red , text by colour= green >
+<h1> Student Information </h1>
+<table border=4>
+<tr>
+<th>Name</th>
+
+<th>Class</th>
+
+<th> fail in subject</th>
+</tr>
+<tr>
+<td>Amit</td>
+<td>12th</td>
+<td>Maths</td>
+</tr>
+<tr>
+<td>sanjay</td>
+
+<td>12th</td>
+
+<td>Science</td>
+</tr>
+<tr>
+<td>suneha</td>
+<td>12th</td>
+<td>Hindi</td>
+</tr>
+<tr>
+<td>sanjana</td>
+<td>12th</td>
+<td>English</td>
+</tr>
+</table>
+</body>
+</html>
