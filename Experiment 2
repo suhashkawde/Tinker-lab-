@@ -1,0 +1,27 @@
+
+
+<html>
+<head>
+  <title>Icecream</title>
+</head>
+<body>
+
+<h1 style="font-size:50px; text-align:center;">A new adventure in ice cream</h1>
+<marquee style="font-size:20px; text-align:center; line-height:30px; margin-bottom: 50px;">We believe that simple, pure nature food tastes best.
+<br>Our ice cream is lovingly handmade in small batches in the <3heart<3> using only simple, natural and fresh local ingredients of adventure and discovery!</p>
+</marquee>
+
+<div style="text-align:center;">
+<a style="font-size:20px; background-color: red; padding: 15px 35px; color: white;" href="https://www.google.com">Read more</a>
+</div>
+
+<hr style="width:60%;">
+
+<h1 style="font-size:50px; text-align:center;">Our core flavours</h1>
+
+<img style="width: 33%;" src="icecreem1.jpeg">
+<img style="width: 33%;" src="icecreem2.jpeg">
+<img style="width: 33%;" src="icecreem3.jpeg">
+
+</body>
+</html>
