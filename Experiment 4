@@ -1,0 +1,43 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mixed Background</title>
+    <style>
+        body {
+            /* This creates a horizontal gradient from light yellow to light red */
+            background-image: linear-gradient(to right, #FFFFE0, #FFB6C1);
+            font-family: sans-serif;
+            text-align: center;
+        }
+        .card {
+            background-color: #FFDAB9;
+            padding: 5px;
+            margin: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 style="color: #4A0404;">Code Languages</h1>
+
+    <div class="card">
+        <h2 style="color: #510400;">Java</h2>
+        <p style="color: black;">Used for web and Android apps.</p>
+    </div>
+
+    <div class="card">
+        <h2 style="color: #5D100A;">Python</h2>
+        <p style="color: black;">Popular for AI and data science.</p>
+    </div>
+
+    <div class="card">
+        <h2 style="color: #420303;">C++</h2>
+        <p style="color: black;">Perfect for games and software.</p>
+    </div>
+
+</body>
+</html>
