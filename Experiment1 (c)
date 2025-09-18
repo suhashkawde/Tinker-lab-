@@ -1,0 +1,23 @@
+
+
+<html>
+<body>
+
+<h1 style="background-color:orange">List</h1>
+<ul type="disc">
+<li><mark>CHOCOLATE</mark></li>
+<li style="color:green">KIT KAT</li>
+<li style="color:green">5STAR</li>
+<li style="color:green">PERK</li>
+</ul>
+<ul type="circle">
+<li>BISCUIT</li>
+<li style="color:red">BOURBON</li>
+<li style="color:red">PARLE-G</li>
+<li style="color:red">GOOD DAY</li>
+<li style="color:red">OREO</li>
+</ul>
+<ol type="A">
+</ol>
+</body>
+</html>
